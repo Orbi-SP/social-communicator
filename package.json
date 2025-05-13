@@ -1,0 +1,26 @@
+{
+  "name": "social-communicator",
+  "version": "1.0.0",
+  "description": "comunicador de redes sociais do PI para engajamento do projeto e comunicação sobre atualização do newsletter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orbi-SP/social-communicator.git"
+  },
+  "author": "Pedro Henrique da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orbi-SP/social-communicator/issues"
+  },
+  "homepage": "https://github.com/Orbi-SP/social-communicator#readme",
+  "keywords": [],
+  "dependencies": {
+    "mongodb": "^6.16.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.28.0"
+  }
+}
